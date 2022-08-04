@@ -38,4 +38,4 @@ async function callApi() {
 btnRandom.onload = () => {
   maincard.style.display = "none";
   loadcard.style.display = "";
-};
+}; 
